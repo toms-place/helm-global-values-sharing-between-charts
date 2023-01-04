@@ -1,0 +1,9 @@
+dependencies:
+- name: SourceChart
+  repository: ""
+  version: 0.1.0
+- name: DestinationChart
+  repository: ""
+  version: 0.1.0
+digest: sha256:04b59d0183a074cd6adbd3824b8f578a16ffc32597dbdb673ee10e67b535632b
+generated: "2023-01-04T23:05:54.849151+01:00"

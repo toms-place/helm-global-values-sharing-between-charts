@@ -25,7 +25,9 @@ appVersion: "1.16.0"
 
 dependencies:
   - name: SourceChart
+    version: 0.1.0
     import-values:
       - child: SourceValues
         parent: global.SourceChart.SourceValues
   - name: DestinationChart
+    version: 0.1.0
